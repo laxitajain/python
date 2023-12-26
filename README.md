@@ -1,3 +1,3 @@
 # python
 basic concepts in python! 🐍
-just doumenting whatever I'm learning :) 
+just documenting whatever I'm learning :) 
