@@ -8,4 +8,13 @@ while choice.upper()=='Y':
         print("Invalid input.")
         break
 print("The entered list is,",t)
+# another way (optimized):
+t=[]
+print("Enter items: ")
+while True:
+    item=input()
+    if item.upper()=="STOP":
+        break
+    t.append(item)
+print("The entered list is:",t)
     
