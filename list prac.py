@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
+#a bunch of different self-explanatory porblems on lists.
 
 
 #37
