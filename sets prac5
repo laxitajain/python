@@ -1,0 +1,12 @@
+#71
+set1={2,3,45}
+set1.pop()
+print(set1)
+#72
+set1={2,3,4,5}
+set1.clear()
+print(set1)
+#73
+set1={2,3,4,5}
+del set1
+print(set1)
